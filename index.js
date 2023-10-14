@@ -1,4 +1,4 @@
-// Utilizei Documentação do Node.js para aprender o readline e os demais utilizados para turbinar o desafio.
+// Utilição da documentação do Node.js para aprender o readline e os demais utilizados para turbinar o desafio e deixa-lo mais versátil.
 
 const readline = require('readline');
 
